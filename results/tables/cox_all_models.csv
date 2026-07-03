@@ -1,0 +1,7 @@
+"endpoint","model","term","HR","CI_low","CI_high","p_value"
+"PFI","Unadjusted (subtype only)","conditionBasal-like",1.446,0.942,2.22,0.0913
+"PFI","Adjusted (+ age)","conditionBasal-like",1.461,0.946,2.255,0.0871
+"PFI","Adjusted (+ age)","age",1.002,0.987,1.018,0.782
+"OS","Unadjusted (subtype only)","conditionBasal-like",1.176,0.75,1.843,0.48
+"OS","Adjusted (+ age)","conditionBasal-like",1.39,0.879,2.197,0.159
+"OS","Adjusted (+ age)","age",1.033,1.017,1.049,5.37e-05

@@ -1,0 +1,26 @@
+name: tcga-brca-rnaseq
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base>=4.4
+  - bioconductor-tcgabiolinks
+  - bioconductor-summarizedexperiment
+  - r-dplyr
+  - r-readxl
+  - r-here
+  - bioconductor-deseq2
+  - bioconductor-apeglm
+  - bioconductor-clusterprofiler
+  - bioconductor-org.hs.eg.db
+  - bioconductor-enrichplot
+  - bioconductor-fgsea
+  - r-survival
+  - r-survminer
+  - r-ggplot2
+  - r-ggrepel
+  - r-pheatmap
+  - r-rcolorbrewer
+  - quarto
+  - r-knitr
+  - r-rmarkdown

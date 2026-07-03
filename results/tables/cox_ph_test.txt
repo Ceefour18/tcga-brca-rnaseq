@@ -1,0 +1,4 @@
+          chisq df      p
+condition  8.87  1 0.0029
+age        1.50  1 0.2202
+GLOBAL    12.69  2 0.0018

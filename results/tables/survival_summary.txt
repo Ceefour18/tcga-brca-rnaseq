@@ -1,0 +1,4 @@
+Cohort: 752 tumours (Luminal A=562, Basal-like=190).
+PFI: 96/750 events (12.8%), median FU 31.3 mo | log-rank p=0.0894 (not significant) | adj HR=1.46 (0.95-2.25) p=0.0871 (not significant) | PH p=0.00175 (violated).
+OS : 93/750 events (12.4%), median FU 31.7 mo | log-rank p=0.479 (not significant) | adj HR=1.39 (0.88-2.20) p=0.159 (not significant) | PH p=0.0511 (supported).
+Comparison: endpoints agree on direction; adjusted-HR 95% CI is tighter for PFI (PFI width 1.31 vs OS width 1.32).
