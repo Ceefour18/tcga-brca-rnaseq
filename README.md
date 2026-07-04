@@ -1,4 +1,4 @@
-Transcriptomic and Survival Landscape of Basal-like vs Luminal A Breast Cancer (TCGA-BRCA)
+# Transcriptomic and Survival Landscape of Basal-like vs Luminal A Breast Cancer (TCGA-BRCA)
 
 ![Analysis](https://img.shields.io/badge/Analysis-RNA--seq-blue)
 ![Data](https://img.shields.io/badge/Data-TCGA--BRCA-orange)
@@ -7,6 +7,8 @@ Transcriptomic and Survival Landscape of Basal-like vs Luminal A Breast Cancer (
 ![Survival](https://img.shields.io/badge/Survival-Cox%20%2B%20KM-green)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+
+📊 **[View the full rendered report →](https://ceefour18.github.io/tcga-brca-rnaseq/report.html)**
 
 A reproducible transcriptomic and survival analysis comparing PAM50 Basal-like
 and Luminal A breast tumours in the TCGA-BRCA cohort. The pipeline runs from
