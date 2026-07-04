@@ -85,8 +85,7 @@ age-adjusted Cox, and a proportional-hazards check.
 
 EndpointEventsMedian follow-upLog-rank pAge-adj. HR (Basal vs LumA)Cox pPH global pPFI96/750 (12.8%)31.3 mo0.0891.46 (95% CI 0.95–2.25)0.0870.0018OS93/750 (12.4%)31.7 mo0.4791.39 (95% CI 0.88–2.20)0.1590.051
 
-What the data supports (and what it does not):
-
+Findings:
 
 Neither endpoint reached statistical significance. The subtype hazard
 ratios point above 1 (higher event hazard in Basal-like) for both endpoints,
@@ -189,8 +188,7 @@ KEGG enrichment in script 04 queries the KEGG web API, so an internet
 connection is required for those steps. Package versions are recorded in
 results/tables/*_session_info.txt for each stage.
 
-Methods (brief)
-
+Methods
 
 Preprocessing: primary tumours only; one sample per patient (largest
 library size); genes filtered to ≥10 counts in ≥190 samples (the smaller
@@ -220,7 +218,6 @@ an external dataset.
 
 
 References
-
 
 Liu et al. (2018) An Integrated TCGA Pan-Cancer Clinical Data Resource…
 Cell 173(2):400–416. (TCGA-CDR; PFI/OS definitions.)
