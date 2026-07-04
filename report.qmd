@@ -9,6 +9,7 @@ format:
     number-sections: true
     code-fold: true
     theme: cosmo
+    embed-resources: true
     fig-align: center
 execute:
   echo: true
