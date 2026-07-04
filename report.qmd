@@ -1,5 +1,5 @@
 ---
-title: "TCGA-BRCA RNA-seq: Basal-like vs Luminal A"
+title: "Transcriptomic and Survival Landscape of Basal-like vs Luminal A Breast Cancer (TCGA-BRCA)"
 author: "Clement Akinsola — Ceefor Analytic Hub"
 date: today
 format:
